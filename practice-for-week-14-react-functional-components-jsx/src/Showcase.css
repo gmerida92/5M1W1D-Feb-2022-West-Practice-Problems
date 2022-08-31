@@ -1,0 +1,20 @@
+.Type {
+    background-color: green;
+    color: white
+}
+
+
+.Move {
+    background-color: white;
+    color: green
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    border-radius: 50%;
+}
